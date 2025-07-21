@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: onsimini
 github_username: onsimini
 minimal_mistakes_skin: dark
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -64,7 +64,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://github.com/onsimini/onsimini.github.io"
+      url: "https://onsimini.github.io/"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/"
@@ -77,6 +77,9 @@ author:
 
 footer:
   # links:
+  - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://onsimini.github.io/"
   #   - label: "Twitter"
   #     icon: "fab fa-fw fa-twitter-square"
   #     url: "https://twitter.com/"
